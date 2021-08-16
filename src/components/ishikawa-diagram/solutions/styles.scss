@@ -1,0 +1,26 @@
+.Challenges-solutions {
+	width: 100%;
+	padding: 24px;
+	.more-causes-button {
+		/* transform: translateX(-25px); */
+		width: fit-content;
+	}
+	.translate50 {
+		transform: translateX(-50px);
+	}
+	.icon-select-container {
+		display: flex;
+		align-items: center;
+		flex-direction: row;
+		justify-content: space-between;
+		.IconSelect {
+			width: 90%;
+			margin-bottom: 10px;
+			margin-top: 10px;
+		}
+		svg {
+			color: #000000;
+			opacity: 0.54;
+		}
+	}
+}
