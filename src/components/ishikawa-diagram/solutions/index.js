@@ -1,6 +1,6 @@
 import React from 'react';
+import Fishbone from './parts/fishBone';
 import './styles.scss';
-import Fishbone from './parts/Fishbone/index';
 
 const ChallengesSolutions = (props) => {
 	return (
