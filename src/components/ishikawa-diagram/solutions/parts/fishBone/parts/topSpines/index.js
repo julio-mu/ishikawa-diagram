@@ -9,23 +9,23 @@ const TopSpines = () => {
 				<div className="transparent-rounded-corners top-causes-button" />
 				<div className="horizontal-lines-container">
 					<div className="single-top-cause-container">
-						<div className="reasons-counter">2</div>
+						<div className="reasons">2</div>
 						<div className="top-horizontal-line"></div>
-						<div className="causes-counter-white">3</div>
+						<div className="causes">3</div>
 					</div>
-					<div className="top-causes">Por diseño de la planta</div>
+					<div className="top-causes">Reason 3</div>
 					<div className="single-top-cause-container">
-						<div className="reasons-counter">3</div>
+						<div className="reasons">3</div>
 						<div className="top-horizontal-line"></div>
-						<div className="causes-counter-white">2</div>
+						<div className="causes">2</div>
 					</div>
-					<div className="top-causes">Por diseño de la planta</div>
+					<div className="top-causes">Reason 2</div>
 					<div className="single-top-cause-container">
-						<div className="reasons-counter">5</div>
+						<div className="reasons">5</div>
 						<div className="top-horizontal-line"></div>
-						<div className="causes-counter-white">1</div>
+						<div className="causes">1</div>
 					</div>
-					<div className="top-causes">Por diseño de la planta</div>
+					<div className="top-causes last-top-cause">Reason 1</div>
 				</div>
 			</div>
 			<div className="category-causes">
@@ -35,46 +35,46 @@ const TopSpines = () => {
 				/>
 				<div className="horizontal-lines-container">
 					<div className="single-top-cause-container">
-						<div className="reasons-counter">2</div>
+						<div className="reasons">2</div>
 						<div className="top-horizontal-line"></div>
-						<div className="causes-counter-white">3</div>
+						<div className="causes">3</div>
 					</div>
-					<div className="top-causes">Por diseño de la planta</div>{' '}
+					<div className="top-causes">Reason 3</div>{' '}
 					<div className="single-top-cause-container">
-						<div className="reasons-counter">3</div>
+						<div className="reasons">3</div>
 						<div className="top-horizontal-line"></div>
-						<div className="causes-counter-white">2</div>
+						<div className="causes">2</div>
 					</div>
-					<div className="top-causes">Por diseño de la planta</div>{' '}
+					<div className="top-causes">Reason 2</div>{' '}
 					<div className="single-top-cause-container">
-						<div className="reasons-counter">5</div>
+						<div className="reasons">5</div>
 						<div className="top-horizontal-line"></div>
-						<div className="causes-counter-white">1</div>
+						<div className="causes">1</div>
 					</div>
-					<div className="top-causes">Por diseño de la planta</div>
+					<div className="top-causes last-top-cause">Reason 1</div>
 				</div>
 			</div>
 			<div className="category-causes">
 				<div className="transparent-rounded-corners top-causes-button" />
 				<div className="horizontal-lines-container">
 					<div className="single-top-cause-container">
-						<div className="reasons-counter">2</div>
+						<div className="reasons">2</div>
 						<div className="top-horizontal-line"></div>
-						<div className="causes-counter-white">3</div>
+						<div className="causes">3</div>
 					</div>
-					<div className="top-causes">Por diseño de la planta</div>{' '}
+					<div className="top-causes">Reason 3</div>{' '}
 					<div className="single-top-cause-container">
-						<div className="reasons-counter">3</div>
+						<div className="reasons">3</div>
 						<div className="top-horizontal-line"></div>
-						<div className="causes-counter-white">2</div>
+						<div className="causes">2</div>
 					</div>
-					<div className="top-causes">Por diseño de la planta</div>{' '}
+					<div className="top-causes">Reason 2</div>{' '}
 					<div className="single-top-cause-container">
-						<div className="reasons-counter">5</div>
+						<div className="reasons">5</div>
 						<div className="top-horizontal-line"></div>
-						<div className="causes-counter-white">1</div>
+						<div className="causes">1</div>
 					</div>
-					<div className="top-causes">Por diseño de la planta</div>
+					<div className="top-causes last-top-cause">Reason 1</div>
 				</div>
 			</div>
 		</div>

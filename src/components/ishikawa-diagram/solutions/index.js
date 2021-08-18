@@ -1,21 +1,11 @@
-import { CreateOutlined, MoreVertOutlined } from '@material-ui/icons';
 import React from 'react';
 import './styles.scss';
-import IshikawaDiagram from './parts/ishikawaDiagram/index';
+import Fishbone from './parts/Fishbone/index';
 
 const ChallengesSolutions = (props) => {
 	return (
 		<div className="Challenges-solutions">
-			{' '}
-			<div className="form-wide">
-				<div className="form-title">
-					<div className="title-internal-container">
-						<CreateOutlined htmlFor="name" />
-					</div>
-					<MoreVertOutlined />
-				</div>
-			</div>
-			<IshikawaDiagram />
+			<Fishbone />
 		</div>
 	);
 };

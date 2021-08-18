@@ -7,7 +7,6 @@ const MainSpine = () => {
 		<div className="main-spine">
 			<div className="spine"></div>
 			<div className="effect-container">
-				<div className="transparent-rounded-corners" />
 				<div className="effect">
 					<Visibility />
 				</div>

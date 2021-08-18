@@ -4,7 +4,7 @@ import MainSpine from './parts/mainSpine';
 import TopSpines from './parts/topSpines';
 import './styles.scss';
 
-const IshikawaDiagram = () => {
+const Fishbone = () => {
 	return (
 		<div className="Ishikawa-diagram">
 			<TopSpines />
@@ -14,4 +14,4 @@ const IshikawaDiagram = () => {
 	);
 };
 
-export default IshikawaDiagram;
+export default Fishbone;
