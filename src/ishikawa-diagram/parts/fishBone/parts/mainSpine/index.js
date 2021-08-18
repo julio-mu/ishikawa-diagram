@@ -1,6 +1,6 @@
 import { Visibility } from '@material-ui/icons';
 import React from 'react';
-import './../../styles.scss';
+import '../../styles.scss';
 
 const MainSpine = () => {
 	return (

@@ -2,7 +2,7 @@ import React from 'react';
 import Fishbone from './parts/fishBone';
 import './styles.scss';
 
-const ChallengesSolutions = (props) => {
+const IshikawaDiagram = (props) => {
 	return (
 		<div className="Challenges-solutions">
 			<Fishbone />
@@ -10,4 +10,4 @@ const ChallengesSolutions = (props) => {
 	);
 };
 
-export default ChallengesSolutions;
+export default IshikawaDiagram;

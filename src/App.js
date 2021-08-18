@@ -1,10 +1,10 @@
 import './App.css';
-import ChallengesSolutions from './components/ishikawa-diagram/solutions';
+import IshikawaDiagram from './ishikawa-diagram';
 
 function App() {
 	return (
 		<div className="App">
-			<ChallengesSolutions />
+			<IshikawaDiagram />
 		</div>
 	);
 }
