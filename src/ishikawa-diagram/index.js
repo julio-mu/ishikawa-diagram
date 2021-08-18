@@ -1,5 +1,5 @@
 import React from 'react';
-import Fishbone from './parts/fishBone';
+import Fishbone from './fishBone';
 import './styles.scss';
 
 const IshikawaDiagram = (props) => {
